@@ -1,4 +1,4 @@
 name: Zebulun Matteson
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-midnight
+remote_theme: "mmistakes/minimal-mistakes"
